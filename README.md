@@ -12,4 +12,4 @@ options:
   -lport LPORT  Local port number
 ```
 
-In my case I have an alias in the `.zshrc` to run it directly from `shell`, but who cares about that?
+In my case I have an alias in the `.zshrc` to run it directly from `shell`.
